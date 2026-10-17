@@ -1,11 +1,11 @@
-# Jawaban Praktikum: <Muhammad Hilman Nuroni> (<10223082>)
+# Jawaban Praktikum: <Nama> (<NIM>)
 
 ## Bagian 1: Pemanasan
-1. Selector: ... | Deklarasi: ... | Property: ... | Value: ... | Pseudo-class: ...
-2. Block: ... | Inline: ...
-3. Paragraf yang hijau: ... karena ...
-4. Warnanya ... karena ...
-5. Yang salah: ...
+1.
+2.
+3.
+4.
+5.
 
 ## Bagian 3: Prediksi Selector Golf
 P1.
